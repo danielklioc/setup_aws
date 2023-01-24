@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo apt update && sudo apt upgrade
 sudo apt -y install autoconf automake libtool pkg-config gcc libssl-dev \
 
